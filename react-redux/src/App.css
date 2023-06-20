@@ -1,0 +1,36 @@
+.btn{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.form{
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+width: 800px;
+
+}
+
+
+button{
+  margin-top: 20px;
+  padding: 10px 20px;
+
+}
+.Wrapper{
+  width: 1200px;
+  height: 100vh;
+  margin: auto;
+}
+.container{
+ display: flex; 
+}
+.container2{
+  width: 200px;
+  margin: auto;
+  margin-top:120px;
+}
+
+
+
